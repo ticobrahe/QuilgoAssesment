@@ -1,0 +1,14 @@
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\bin\Debug\netcoreapp3.1\QuilgoAssesment.exe
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\bin\Debug\netcoreapp3.1\QuilgoAssesment.deps.json
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\bin\Debug\netcoreapp3.1\QuilgoAssesment.runtimeconfig.json
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\bin\Debug\netcoreapp3.1\QuilgoAssesment.runtimeconfig.dev.json
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\bin\Debug\netcoreapp3.1\QuilgoAssesment.dll
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\bin\Debug\netcoreapp3.1\QuilgoAssesment.pdb
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.csproj.AssemblyReference.cache
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.AssemblyInfoInputs.cache
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.AssemblyInfo.cs
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.csproj.CoreCompileInputs.cache
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.dll
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.pdb
+C:\Users\olabi\source\repos\QuilgoAssesment\QuilgoAssesment\obj\Debug\netcoreapp3.1\QuilgoAssesment.genruntimeconfig.cache

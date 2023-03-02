@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuOvXOKSpY7bRj/1VK/bfyD+KsJC0WfXrNmCJCMMlhy9ZxFkLmi1H77A591eDNwsCG68mcd4ijRahHSb8Dt9UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olabi\\source\\repos\\QuilgoAssesment\\QuilgoAssesment\\QuilgoAssesment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olabi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
